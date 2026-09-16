@@ -1,5 +1,3 @@
-﻿<h2 align="left">Hi 👋! My name is Barkın and I'm a Senior LuaU Developer, from TÜRKİYEEE 🇹🇷🐺🇹🇷🐺🇹🇷</h2>
-
 ###
 
 <div align="center">
